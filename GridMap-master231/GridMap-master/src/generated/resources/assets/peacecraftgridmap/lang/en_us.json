@@ -1,0 +1,8 @@
+{
+  "item.peacecraftgridmap.grid_map": "Grid Map",
+  "item.peacecraftgridmap.grid_map_book": "Grid Map Book",
+  "itemGroup.peacecraftgridmap.items": "PeaceCraft Grid Map",
+  "itemGroup.peacecraftgridmap.peacecraftgridmap": "Peacecraftgridmap",
+  "tooltip.peacecraftgridmap.grid_map.scale": "Scale: %d",
+  "tooltip.peacecraftgridmap.grid_map_book": "Contains following maps: "
+}

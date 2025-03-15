@@ -1,0 +1,8 @@
+{
+  "item.peacecraftgridmap.grid_map": "网格地图",
+  "item.peacecraftgridmap.grid_map_book": "网格地图数",
+  "tooltip.peacecraftgridmap.grid_map_book": "包含下列地图: ",
+  "itemGroup.peacecraftgridmap.items": "平乐网格地图",
+  "itemGroup.peacecraftgridmap.peacecraftgridmap": "平乐网格地图",
+  "tooltip.peacecraftgridmap.grid_map.scale": "缩放等级: %d"
+}

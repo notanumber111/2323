@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:map"
+    },
+    "B": {
+      "item": "minecraft:red_dye"
+    },
+    "C": {
+      "item": "minecraft:green_dye"
+    },
+    "D": {
+      "item": "minecraft:blue_dye"
+    },
+    "E": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BCD",
+    " E "
+  ],
+  "result": {
+    "item": "peacecraftgridmap:grid_map"
+  },
+  "show_notification": true
+}
